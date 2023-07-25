@@ -1,4 +1,4 @@
-#endtoend
+#endtoend(A) - kja
 
 -강아지
 -지렁이
